@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello, I'm Jaspreet
 
-<!--
-**Jaspreetkaur2022/Jaspreetkaur2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Software Engineering Student
+🏫 CSUF,USA.
 
-Here are some ideas to get you started:
+🌐 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning:
+   - HTML
+   - CSS
+   - JavaScript
+
+🚀 Passionate about creating web applications that make a difference.
+
+🌟 Here you'll find my journey in coding, from simple web projects to more complex applications.
+
+📫 Let's connect:
+   - LinkedIn: https://www.linkedin.com/in/jaspreet-k-a80925a8/
+   - Twitter: 
+   - Portfolio: 
+
+🌍 Exploring the digital world, one line of code at a time.
+
+🚀 Skills:
+   - HTML ⭐⭐⭐⭐⭐
+   - CSS ⭐⭐⭐⭐
+   - JavaScript ⭐⭐⭐
