@@ -16,7 +16,7 @@
 
 📫 Let's connect:
    - LinkedIn: https://www.linkedin.com/in/jaspreet-k-a80925a8/
-   - Twitter: 
+   - GitHUb : https://github.com/Jaspreetkaur2022/Jaspreetkaur2022
    - Portfolio: 
 
 🌍 Exploring the digital world, one line of code at a time.
