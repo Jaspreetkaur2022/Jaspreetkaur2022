@@ -9,6 +9,9 @@
    - HTML
    - CSS
    - JavaScript
+   - React
+   - Redux
+   - Testing
 
 🚀 Passionate about creating web applications that make a difference.
 
